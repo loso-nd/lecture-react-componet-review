@@ -1,0 +1,11 @@
+!## NOTES
+
+** Components **
+
+?Add an Amimal Components as a sub header. 
+?We want to add the animals to a card 
+?We want to build another Component that organizes the cards and then eventually those cards will be added to the {App}
+
+
+** Using Semantic UI **
+
